@@ -23,7 +23,7 @@
 
 ---
 
-# Tentang Repository
+## Tentang Repository
 
 Halo! Perkenalkan, saya Rapsand, mahasiswa Program Studi Informatika. Repository ini dibuat sebagai portofolio pembelajaran selama mengikuti mata kuliah **Data Science**.
 
