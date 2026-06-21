@@ -16,11 +16,12 @@
 
 ## Identitas Mahasiswa
 
-**Nama:** Abdullah Rapsandani
-**NIM:** 240401010174
-**Kelas:** IF-403
-**Program Studi:** PJJ Informatika
-
+| **Informasi** | **Keterangan** |
+|------------|------------|
+| **Nama Lengkap** | Abdullah Rapsandani |
+| **NIM** | 240401010174 |
+| **Kelas** | IF-403 |
+| **Program Studi** | PJJ Informatika 
 ---
 
 ## Tentang Repository
