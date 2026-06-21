@@ -1,5 +1,4 @@
-# 📊 Portofolio Pengantar Data Science
-# DataScience_240401010174_AbdullahRapsandani
+# Portofolio Pengantar Data Science
 
 <div align="center">
 
@@ -12,7 +11,7 @@
 
 </div>
 
-# 👨‍🎓 My Profile
+# My Profile
 
 ## Identitas Mahasiswa
 
@@ -141,6 +140,3 @@ Repository ini menjadi dokumentasi perjalanan belajar saya dalam memahami konsep
 
 # Terima Kasih
 
-Terima kasih telah mengunjungi repository ini.
-
-⭐ Jangan lupa memberikan Star jika repository ini bermanfaat.
