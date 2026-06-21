@@ -40,7 +40,7 @@ Melalui repository ini, saya mendokumentasikan proses belajar serta implementasi
 
 | Pertemuan | Topik                                                       | Notebook                                |
 | --------- | ----------------------------------------------------------- | --------------------------------------- |
-| 1         | Pengenalan Data Science dan Google Colab                    | [Notebook Pertemuan 1](LINK_NOTEBOOK_1) |
+| 1         | Pengenalan Data Science dan Google Colab                    | [Notebook Pertemuan 1]([LINK_NOTEBOOK_1](https://github.com/rapsandhani/DataScience_240401010174_AbdullahRapsandani/blob/main/Pertemuan1_AbdullahRapsandani_240401010174.ipynb)) |
 | 2         | Struktur Data Python, NumPy, Pandas, dan Dataset Titanic    | [Notebook Pertemuan 2](LINK_NOTEBOOK_2) |
 | 3         | Data Cleaning dan Data Extraction                           | [Notebook Pertemuan 3](LINK_NOTEBOOK_3) |
 | 4         | Statistik Deskriptif Dataset Iris                           | [Notebook Pertemuan 4](LINK_NOTEBOOK_4) |
