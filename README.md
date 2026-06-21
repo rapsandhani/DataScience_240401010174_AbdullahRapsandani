@@ -1,7 +1,3 @@
-<div text="center">
-  # Portofolio Pengantar Data Science
-</div>
-
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -12,10 +8,9 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 </div>
+# Portofolio Pengantar Data Science
 
-# My Profile
-
-## Identitas Mahasiswa
+## My Profile
 
 | **Informasi** | **Keterangan** |
 |------------|------------|
