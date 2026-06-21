@@ -113,13 +113,13 @@ Kemudian buka file notebook (.ipynb) yang ingin dijalankan.
 ```text
 data-science-portfolio/
 │
-├── Pertemuan1_Pengenalan_Data_Science.ipynb
-├── Pertemuan2_Titanic_Analysis.ipynb
-├── Pertemuan3_Data_Cleaning.ipynb
-├── Pertemuan4_Statistik_Iris.ipynb
-├── Pertemuan5_Visualisasi_Iris.ipynb
-├── Pertemuan6_Preprocessing_Titanic.ipynb
-├── Pertemuan7_Regresi_Linear_Gaji.ipynb
+├── Pertemuan1_[NAMA]_[NIM].ipynb
+├── Pertemuan2_[NAMA]_[NIM].ipynb
+├── Pertemuan3_[NAMA]_[NIM].ipynb
+├── Pertemuan4_[NAMA]_[NIM].ipynb
+├── Pertemuan5_[NAMA]_[NIM].ipynb
+├── Pertemuan6_[NAMA]_[NIM].ipynb
+├── Pertemuan7_[NAMA]_[NIM].ipynb
 │
 └── README.md
 ```
