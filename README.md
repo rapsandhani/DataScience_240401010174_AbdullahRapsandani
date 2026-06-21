@@ -1,4 +1,6 @@
-# Portofolio Pengantar Data Science
+<div align="center">
+  # Portofolio Pengantar Data Science
+</div>
 
 <div align="center">
 
