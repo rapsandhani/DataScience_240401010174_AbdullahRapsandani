@@ -8,7 +8,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 </div>
-# 📊 Portofolio Pengantar Data Science
+
+# Portofolio Pengantar Data Science
 
 ## My Profile
 
