@@ -41,12 +41,12 @@ Melalui repository ini, saya mendokumentasikan proses belajar serta implementasi
 | Pertemuan | Topik                                                       | Notebook                                |
 | --------- | ----------------------------------------------------------- | --------------------------------------- |
 | 1         | Pengenalan Data Science dan Google Colab                    | [Notebook Pertemuan 1](./Pertemuan1_AbdullahRapsandani_240401010174.ipynb) |
-| 2         | Struktur Data Python, NumPy, Pandas, dan Dataset Titanic    | [Notebook Pertemuan 2](LINK_NOTEBOOK_2) |
-| 3         | Data Cleaning dan Data Extraction                           | [Notebook Pertemuan 3](LINK_NOTEBOOK_3) |
-| 4         | Statistik Deskriptif Dataset Iris                           | [Notebook Pertemuan 4](LINK_NOTEBOOK_4) |
-| 5         | Visualisasi Data dan Dashboard Dataset Iris                 | [Notebook Pertemuan 5](LINK_NOTEBOOK_5) |
-| 6         | Data Preprocessing Dataset Titanic                          | [Notebook Pertemuan 6](LINK_NOTEBOOK_6) |
-| 7         | Machine Learning - Prediksi Gaji Menggunakan Regresi Linear | [Notebook Pertemuan 7](LINK_NOTEBOOK_7) |
+| 2         | Struktur Data Python, NumPy, Pandas, dan Dataset Titanic    | [Notebook Pertemuan 2](./Pertemuan2_AbdullahRapsandani_240401010174.ipynb) |
+| 3         | Data Cleaning dan Data Extraction                           | [Notebook Pertemuan 3](./Pertemuan3_AbdullahRapsandani_240401010174.ipynb) |
+| 4         | Statistik Deskriptif Dataset Iris                           | [Notebook Pertemuan 4](./Pertemuan4_AbdullahRapsandani_240401010174.ipynb) |
+| 5         | Visualisasi Data dan Dashboard Dataset Iris                 | [Notebook Pertemuan 5](./Pertemuan5_AbdullahRapsandani_240401010174.ipynb) |
+| 6         | Data Preprocessing Dataset Titanic                          | [Notebook Pertemuan 6](./Pertemuan6_AbdullahRapsandani_240401010174.ipynb) |
+| 7         | Machine Learning - Prediksi Gaji Menggunakan Regresi Linear | [Notebook Pertemuan 7](./Pertemuan7_AbdullahRapsandani_240401010174.ipynb) |
 
 ---
 
